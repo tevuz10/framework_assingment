@@ -3,5 +3,7 @@
 下記のGemを作成しました。
 
 * BMI計算のGem  
-* じゃんけんゲームのGem
+* じゃんけんゲームのGem  
+  
+This software is released under the MIT License, see LICENSE.txt.  
 
